@@ -1,2 +1,2 @@
 # Jupyter
-This repo was created for testing git clone
+This repo was created to test git clone
